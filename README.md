@@ -15,7 +15,7 @@ Especializado en las tecnologías actuales, he desarrollado e implementado soluc
 
 ## Contacto
 - WebSite: [davidku.dev](https://davidku.dev)
-- Email: contacto@davidku.dev
+- Email: hola@davidku.dev
 - LinkedIn: [@dav3ku](https://linkedin.com/in/dav3ku)
 - Twitter: [@dav3ku](https://twitter.com/dav3ku)
 
