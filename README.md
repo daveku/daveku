@@ -17,8 +17,8 @@ Como especialista en tecnología ha implementado diversos sistemas, desarrolland
 ## Contacto
 - Sitio Web: [davidku.dev](https://davidku.dev)
 - E-mail: [hola@davidku.dev](mailto:hola@davidku.dev)
-- [LinkedIn](https://linkedin.com/in/dav3ku)
-- [Twitter](https://twitter.com/dav3ku)
+- [LinkedIn](https://linkedin.com/in/daviidku)
+- [Twitter](https://twitter.com/daviidku)
 
 ---------
 
@@ -41,5 +41,5 @@ As a technology specialist, he has implemented various systems, developing techn
 
  - Website: [davidku.dev](https://davidku.dev)
  - E-mail: [hello@davidku.dev](mailto:hello@davidku.dev)
- - [LinkedIn](https://www.linkedin.com/in/dav3ku/?locale=en_US)
- - [Twitter](https://twitter.com/dav3ku)
+ - [LinkedIn](https://www.linkedin.com/in/daviidku/?locale=en_US)
+ - [Twitter](https://twitter.com/daviidku)
