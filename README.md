@@ -1,5 +1,5 @@
 # Hola 
-👋, mi nombre es David Ku (@dav3ku) - [in English](#hello)
+👋, mi nombre es David Ku (@daviidku) - [in English](#hello)
 
 ## Sobre mi
 
@@ -23,7 +23,7 @@ Como especialista en tecnología ha implementado diversos sistemas, desarrolland
 ---------
 
 # Hello 
-👋, my name is David Ku (@dav3ku)
+👋, my name is David Ku (@daviidku)
 
 ## About me 
 His passion for continuing to learn is great and that is why he is now looking for experiences in web development.
