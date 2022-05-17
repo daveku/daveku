@@ -1,5 +1,5 @@
 # Hola 
-👋, mi nombre es David Ku (@daviidku) - [in English](#hello)
+👋, mi nombre es David Ku (@daviidkuu) - [in English](#hello)
 
 ## Sobre mi
 
@@ -17,13 +17,13 @@ Como especialista en tecnología ha implementado diversos sistemas, desarrolland
 ## Contacto
 - Sitio Web: [davidku.dev](https://davidku.dev)
 - E-mail: [hola@davidku.dev](mailto:hola@davidku.dev)
-- [LinkedIn](https://linkedin.com/in/daviidku)
-- [Twitter](https://twitter.com/daviidku)
+- [LinkedIn](https://linkedin.com/in/daviidkuu)
+- [Twitter](https://twitter.com/daviidkuu)
 
 ---------
 
 # Hello 
-👋, my name is David Ku (@daviidku)
+👋, my name is David Ku (@daviidkuu)
 
 ## About me 
 His passion for continuing to learn is great and that is why he is now looking for experiences in web development.
@@ -41,5 +41,5 @@ As a technology specialist, he has implemented various systems, developing techn
 
  - Website: [davidku.dev](https://davidku.dev)
  - E-mail: [hello@davidku.dev](mailto:hello@davidku.dev)
- - [LinkedIn](https://www.linkedin.com/in/daviidku/?locale=en_US)
- - [Twitter](https://twitter.com/daviidku)
+ - [LinkedIn](https://www.linkedin.com/in/daviidkuu/?locale=en_US)
+ - [Twitter](https://twitter.com/daviidkuu)
