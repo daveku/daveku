@@ -1,5 +1,5 @@
 # Hello 👋 
-I´m David Ku - [en Español](#hola)
+I´m David Ku - [en Español](#Hola-👋)
 
 ## About me 
 As a technology specialist, he has implemented various systems, developing technological solutions for different projects throughout his professional and personal life in various companies. A professional who encourages teamwork, who shares his knowledge and experiences with colleagues and clients to achieve goals.
@@ -24,7 +24,7 @@ As a technology specialist, he has implemented various systems, developing techn
 - Docker
 - Google Cloud Platform
 
-### Data bases
+### Databases
 #### SQL
 - MySQL
 - PostgreSQL
@@ -79,6 +79,3 @@ Como especialista en tecnología ha implementado diversos sistemas, desarrolland
 ## Contacto
 - Sitio Web: [davidku.dev](https://davidku.dev)
 - E-mail: [hola@davidku.dev](mailto:hola@davidku.dev)
-
----------
-
