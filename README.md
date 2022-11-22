@@ -12,9 +12,6 @@ He has implemented various systems, developing technological solutions for diffe
 professional and personal life. A person who encourages teamwork, who shares his knowledge and experiences with
 colleagues and clients to achieve goals.
 
-
------
-
 ## Technical skills
 
 ### Languages
