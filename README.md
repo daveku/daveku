@@ -12,10 +12,6 @@ He has implemented various systems, developing technological solutions for diffe
 professional and personal life. A person who encourages teamwork, who shares his knowledge and experiences with
 colleagues and clients to achieve goals.
 
-<a><img width="490"  align="center" src="https://wakatime.com/share/@daveku/d5fcc304-5028-4e01-8381-06b8d8dc2e38.svg"></a>
-<a href="https://wakatime.com/@daveku"><img width="490" align="center" src="https://wakatime.com/share/@daveku/572fb6e1-cf0b-416b-bf3b-dc31dc72b7b8.svg" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveku&layout=compact&langs_count=10&custom_title=Most&nbsp;used&nbsp;languages&nbsp;on&nbsp;GitHub&card_width=440)
-![David's GitHub Status](https://github-readme-stats.vercel.app/api?username=daveku&show_icons=true&hide=stars,contribs&count_private=true&bg_color=DEG,00908B,00908B,00758F,005B8F,00458F&title_color=FFF&text_color=D7D9DB&icon_color=00FFEB&custom_title=GitHub&nbsp;Stats)
 
 -----
 
@@ -67,3 +63,7 @@ colleagues and clients to achieve goals.
 <a href="https://www.mysql.com/" target="_blank"><img  width="42" height="42" alt="MySQL" src="https://cdn.simpleicons.org/mysql"></a>
 &nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img  width="42" height="42" alt="MySQL" src="https://cdn.simpleicons.org/postgresql"></a>
+
+----
+
+<a href="https://wakatime.com/@daveku" target="_blank"><img width="70%"  align="center" src="https://wakatime.com/share/@daveku/d5fcc304-5028-4e01-8381-06b8d8dc2e38.svg"></a>
