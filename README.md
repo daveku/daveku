@@ -1,7 +1,7 @@
 # Hello 👋 I´m David Ku
 
-[![website](https://img.shields.io/badge/WebSite-0077B5?logo=googlechrome&style=flat-square&color=gray&logoColor=white)](https://davidku.dev)
-[![email](https://img.shields.io/badge/Email-0077B5?logo=gmail&style=flat-square&color=gray&logoColor=white)](mailto:hola@davidku.dev)
+[![website](https://img.shields.io/badge/WebSite-0077B5?logo=googlechrome&style=flat-square&color=gray&logoColor=white)](https://davidku.pro)
+[![email](https://img.shields.io/badge/Email-0077B5?logo=gmail&style=flat-square&color=gray&logoColor=white)](mailto:hola@davidku.pro)
 [![github](https://img.shields.io/badge/GitHub-0077B5?logo=github&style=flat-square&color=gray)](https://github.com/daveku)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square&color=gray)](https://www.linkedin.com/in/daveku/)
 [![wakatime](https://wakatime.com/badge/user/55c7f3c3-3efc-4ed2-8671-7e5d8db8a308.svg?style=flat-square&color=black)](https://wakatime.com/@55c7f3c3-3efc-4ed2-8671-7e5d8db8a308)
