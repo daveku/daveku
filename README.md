@@ -8,7 +8,7 @@
 
 ## About me
 
-Technology professional with over 10 years of experience in developing technological solutions, technical support, and managing network and cloud infrastructure systems. I have worked in roles ranging from implementing and maintaining point-of-sale systems in international franchises to developing web applications and enterprise systems using technologies such as JavaScript, React, Go, and cloud solutions. I have experience in managing and optimizing technology projects, ensuring scalability and performance of applications, as well as in server and network administration.
+Technology professional with over 10 years of experience in developing technological solutions, technical support, and managing network and cloud infrastructure systems. I have worked in roles ranging from implementing and maintaining point-of-sale systems in international franchises to developing web applications and enterprise systems using technologies such as JavaScript and cloud solutions. I have experience in managing and optimizing technology projects, ensuring scalability and performance of applications, as well as in server and network administration.
 
 My background includes training and supporting system users, which has allowed me to develop strong communication skills and effectively convey technical knowledge. I excel in teamwork, sharing experiences, and leading initiatives that drive innovation and continuous improvement in projects.
 
