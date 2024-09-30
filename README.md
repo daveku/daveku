@@ -8,7 +8,13 @@
 
 ## About me
 
-Technology professional with over 10 years of experience in developing technological solutions, technical support, and network infrastructure management. I have worked in roles ranging from the implementation and maintenance of point-of-sale systems to the development of web applications and enterprise systems, adapting solutions to meet the needs of various sectors. I am passionate about learning new technologies and facing challenges, which allows me to quickly adapt to changing environments and find innovative solutions. I have experience in cloud server management, software development with technologies such as JavaScript with React and Angular, as well as in implementing scalable and high-performance solutions. I am recognized for fostering teamwork, sharing knowledge, and maintaining a focus on the continuous improvement of technological processes.
+Technology professional with over 10 years of experience in developing technological solutions, technical support, and managing network and cloud infrastructure systems. I have worked in roles ranging from implementing and maintaining point-of-sale systems in international franchises to developing web applications and enterprise systems using technologies such as JavaScript, React, Go, and cloud solutions. I have experience in managing and optimizing technology projects, ensuring scalability and performance of applications, as well as in server and network administration.
+
+My background includes training and supporting system users, which has allowed me to develop strong communication skills and effectively convey technical knowledge. I excel in teamwork, sharing experiences, and leading initiatives that drive innovation and continuous improvement in projects.
+
+I am a professional who is passionate about learning new technologies and work methodologies, adapting to challenges and changes that different development environments present. My focus on efficiency and quality enables me to provide solutions that meet the needs of clients and businesses, ensuring the delivery of projects that add value and contribute to organizational growth.
+
+My goal is to continue growing as a developer and specialist in technological solutions, always seeking challenges that allow me to contribute and acquire new knowledge.
 
 ## Technical skills
 
