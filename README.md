@@ -8,21 +8,21 @@
 
 ## About me
 
-He has implemented various systems, developing technological solutions for different projects throughout his
-professional and personal life. A person who encourages teamwork, who shares his knowledge and experiences with
-colleagues and clients to achieve goals.
+Technology professional with over 10 years of experience in developing technological solutions, technical support, and network infrastructure management. I have worked in roles ranging from the implementation and maintenance of point-of-sale systems to the development of web applications and enterprise systems, adapting solutions to meet the needs of various sectors. I am passionate about learning new technologies and facing challenges, which allows me to quickly adapt to changing environments and find innovative solutions. I have experience in cloud server management, software development with technologies such as JavaScript with React and Angular, as well as in implementing scalable and high-performance solutions. I am recognized for fostering teamwork, sharing knowledge, and maintaining a focus on the continuous improvement of technological processes.
 
 ## Technical skills
 
 ### Languages
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img width="42" height="42" alt="JavaScript" src="https://cdn.simpleicons.org/javascript"></a>
+<!-- 
 &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img width="42" height="42" alt="TypeScript" src="https://cdn.simpleicons.org/typescript"></a>
 &nbsp;
 <a href="https://www.python.org/" target="_blank"><img width="42" height="42" alt="Python" src="https://cdn.simpleicons.org/python"></a>
 &nbsp;
 <a href="https://go.dev/" target="_blank"><img width="42" height="42" alt="GoLand" src="https://cdn.simpleicons.org/go"></a>
+-->
 
 ### Frameworks
 
@@ -41,17 +41,12 @@ colleagues and clients to achieve goals.
 <a href="https://git-scm.com/" target="_blank"><img width="42" height="42" alt="Git" src="https://cdn.simpleicons.org/git"></a>
 &nbsp;
 <a href="https://github.com/" target="_blank"><img width="42" height="42" alt="GitHub" src="https://cdn.simpleicons.org/github"></a>
-&nbsp;
-<a href="https://www.jetbrains.com/" target="_blank"><img width="42" height="42" alt="JetBrains" src="https://cdn.simpleicons.org/jetbrains"></a>
-&nbsp; <a href="https://cloud.google.com/" target="_blank"><img width="42" height="42" alt="Google Cloud" src="https://cdn.simpleicons.org/googlecloud"></a>
+&nbsp; 
+<a href="https://cloud.google.com/" target="_blank"><img width="42" height="42" alt="Google Cloud" src="https://cdn.simpleicons.org/googlecloud"></a>
 &nbsp;
 <a href="https://firebase.google.com/" target="_blank"><img width="42" height="42" alt="Firebase" src="https://cdn.simpleicons.org/firebase"></a>
 &nbsp;
 <a href="https://www.docker.com/" target="_blank"><img width="42" height="42" alt="Docker" src="https://cdn.simpleicons.org/docker"></a>
-&nbsp;
-<a href="https://github.com/features/actions" target="_blank"><img width="42" height="42" alt="GitHub Actions" src="https://cdn.simpleicons.org/githubactions"></a>
-&nbsp;
-<img width="42" height="42" alt="Coffee" src="https://cdn.simpleicons.org/starbucks">
 
 ### Databases
 
