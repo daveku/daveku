@@ -20,10 +20,10 @@ My goal is to continue growing as a developer and specialist in technological so
 
 ### Languages
 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img width="42" height="42" alt="JavaScript" src="https://cdn.simpleicons.org/javascript"></a>
-<!-- 
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img width="42" height="42" alt="JavaScript" src="https://cdn.simpleicons.org/javascript"></a> 
 &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img width="42" height="42" alt="TypeScript" src="https://cdn.simpleicons.org/typescript"></a>
+<!--
 &nbsp;
 <a href="https://www.python.org/" target="_blank"><img width="42" height="42" alt="Python" src="https://cdn.simpleicons.org/python"></a>
 &nbsp;
@@ -42,6 +42,8 @@ My goal is to continue growing as a developer and specialist in technological so
 
 ### Work tools
 
+<a href="https://termius.com" target="_blank"><img width="42" height="42" alt="Termius" src="https://cdn.simpleicons.org/termius"></a>
+&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="42" height="42" alt="Bash" src="https://cdn.simpleicons.org/gnubash"></a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank"><img width="42" height="42" alt="Git" src="https://cdn.simpleicons.org/git"></a>
@@ -53,6 +55,11 @@ My goal is to continue growing as a developer and specialist in technological so
 <a href="https://firebase.google.com/" target="_blank"><img width="42" height="42" alt="Firebase" src="https://cdn.simpleicons.org/firebase"></a>
 &nbsp;
 <a href="https://www.docker.com/" target="_blank"><img width="42" height="42" alt="Docker" src="https://cdn.simpleicons.org/docker"></a>
+&nbsp;
+<a href="https://www.jetbrains.com/" target="_blank"><img width="42" height="42" alt="Jetbrains" src="https://cdn.simpleicons.org/jetbrains"></a>
+&nbsp;
+<a href="https://www.atlassian.com/" target="_blank"><img width="42" height="42" alt="Jira" src="https://cdn.simpleicons.org/atlassian"></a>
+
 
 ### Databases
 
