@@ -8,13 +8,11 @@
 
 ## About me
 
-Technology professional with over 10 years of experience in developing technological solutions, technical support, and managing network and cloud infrastructure systems. I have worked in roles ranging from implementing and maintaining point-of-sale systems in international franchises to developing web applications and enterprise systems using technologies such as JavaScript and cloud solutions. I have experience in managing and optimizing technology projects, ensuring scalability and performance of applications, as well as in server and network administration.
+Hey! I’m a tech guy with 12+ years of experience building stuff, fixing problems, and keeping networks and cloud systems running smoothly. I’ve done everything from setting up point-of-sale systems for global franchises to developing web apps, business tools and cloud platforms.
 
-My background includes training and supporting system users, which has allowed me to develop strong communication skills and effectively convey technical knowledge. I excel in teamwork, sharing experiences, and leading initiatives that drive innovation and continuous improvement in projects.
+Along the way, I’ve led projects, made sure things scale and perform well, and helped users understand tech without making it complicated. Right now, I’m studying a master’s in software engineering and project management — learning more so I can build better and think more strategically.
 
-I am a professional who is passionate about learning new technologies and work methodologies, adapting to challenges and changes that different development environments present. My focus on efficiency and quality enables me to provide solutions that meet the needs of clients and businesses, ensuring the delivery of projects that add value and contribute to organizational growth.
-
-My goal is to continue growing as a developer and specialist in technological solutions, always seeking challenges that allow me to contribute and acquire new knowledge.
+I’m all about learning new things, taking on challenges, and finding smart ways to solve problems. If it adds value and makes life easier for people or businesses, I’m in.
 
 ## Technical skills
 
